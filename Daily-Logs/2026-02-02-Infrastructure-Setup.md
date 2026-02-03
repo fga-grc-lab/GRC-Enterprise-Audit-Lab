@@ -18,6 +18,9 @@ ID del Hallazgo: E-001 (Movimiento Lateral sin Restricciones).
 Outcome: Uploaded NovaPay-Vulnerability-Diagram.png to GitHub as primary audit evidence.
 
 Resultado: Se subió NovaPay-Vulnerability-Diagram.png a GitHub como evidencia primaria de auditoría.
+---
+### 🖼️ Visual Evidence / Evidencia Visual
+![NovaPay Vulnerability Diagram](../01-NovaPay-Fintech/NovaPay-Vulnerability-Diagram.png)
 
 🕒 10:30 PM - Internal Lab Setup (Local Environment)
 Activity: Provisioning of the audit laboratory. Enabled Hyper-V on Windows 11 Pro and initiated the download of Windows Server 2022 ISO.
