@@ -19,3 +19,5 @@ An unauthorized user on the Guest network can perform network discovery and pote
 
 ## 3. Compliance Status / Estado de Cumplimiento
 **Status:** NON-COMPLIANT (Requirement 1.2.1)
+
+![Network Vulnerability Diagram](NovaPay-Vulnerability-Diagram.png)
